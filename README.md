@@ -1,50 +1,3 @@
-﻿# Website For Girlfriend
-
-A fun, interactive web app that lets users choose their gift in a playful, cartoon-inspired style. Perfect for birthdays, celebrations, or simply adding some whimsy to any event!
-
-## Overview
-
-This repository contains a multi-page web application featuring a vibrant, cartoon-themed design. With engaging animations, interactive gift selections, and playful messaging, the app creates an unforgettable experience for users. Its versatile design makes it ideal not only for general gifting but also for birthday celebrations and special occasions.
-
-## Features
-
-### Cartoon-Inspired Design
-- Uses playful Google Fonts ("Luckiest Guy" and "Comic Neue") along with vibrant gradients and animated elements.
-
-### Interactive Gift Selection
-- Multiple pages let users choose between different gift options, with fun hover effects, dynamic font sizing, and engaging alerts.
-
-### Custom Gift Input
-- A dedicated page where users can describe their custom gift wish.
-
-### Playful Animations
-- Bouncing headings, floating buttons, and animated images create a lively and engaging interface.
-
-### Background Music
-- Integrated looping background music enhances the overall interactive experience.
-
-### Versatile Usage
-- Designed for fun, the app can easily be adapted for birthday celebrations or any special event to make gifting interactive and memorable.
-
-## Project Structure
-
-```
-cartoon-gift-selector/
-├── index.html                 # Main page for gift selection
-├── contact.html               # Page to describe a custom gift
-├── question2.html             # Additional interactive page with playful questions
-├── final.html                 # (Optional) Final page after selection
-├── style.css                  # External stylesheet (if separated)
-├── music/
-│   └── ahatamatarmusic.mp3    # Background music file
-└── img/
-    ├── gift1.webp             # Image for Gift 1
-    ├── gift2.png              # Image for Gift 2 & Custom Gift
-    ├── sleep.webp             # Image used in question pages
-    └── hamster.jpg            # Hamster image with animations
-```
-
-## Getting Started
 
 To run this project locally:
 
@@ -89,4 +42,5 @@ This project is open source and available under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests with any enhancements or bug fixes. If you encounter any issues, open an issue on GitHub to discuss potential improvements.
+
 
