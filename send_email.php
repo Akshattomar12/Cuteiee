@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Set headers
     $headers = "From: your_email@gmail.com\r\n";
-    $headers .= "Reply-To: your_email@gmail.com\r\n";
+    $headers .= "Reply-To: tomarakshat70@gmail.com\r\n";
     $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
     // Attempt to send email
