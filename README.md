@@ -3,12 +3,12 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pinakkk/Website-For-Girlfriend
+    git clone https://github.com/Akshattomar12/Cuteiee
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd website-for-girlfriend
+    cd website-Cuteiee
     ```
 
 3. Open the main HTML file in your web browser:
@@ -42,5 +42,6 @@ This project is open source and available under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests with any enhancements or bug fixes. If you encounter any issues, open an issue on GitHub to discuss potential improvements.
+
 
 
